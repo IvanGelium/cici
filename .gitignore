@@ -1,0 +1,27 @@
+# Папка сборки и скомпилированные артефакты
+
+
+build/
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+
+# Отладочная информация
+*.dSYM/
+*.pdb
+*.ilk
+
+# Настройки IDE (VS Code)
+.vscode/
+
+# Системные файлы (macOS / Linux / Windows)
+.DS_Store
+Thumbs.db
+*~
+*.swp
